@@ -3,6 +3,8 @@
 
 def main():
     print('Hello,world!')
+    hello = input('Please input your name!')
+    print('Welcome Sir:',hello)
     
 
 if __name__ == '__main__':
