@@ -2,9 +2,12 @@
 # -*- coding: utf-8 -*- 
 
 def main():
-    print('Hello,world!')
-    hello = input('Please input your name!')
-    print('Welcome Sir:',hello)
+    PI = 3.141592648
+    print('PI is :%s',PI)
+    list1 = ['china','second','tom']
+    list1.insert(1,'hello')
+    print(list1)
+    
     
 
 if __name__ == '__main__':
